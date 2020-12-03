@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![](https://github.com/hidang/hidang/blob/master/dino.gif)](#)
+[![](https://github.com/hidang/hidang/blob/main/dino.gif)](#)
 
