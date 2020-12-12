@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋 
-### I'm hidang 
+### Hi there 👋 I'm hidang 
 ## ✨ Welcome to my github
+- 🌱 I’m currently learning in [VNUHCM-University of Information Technology](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
+- 🤔 I’m looking for help with JavaScripts, Nodejs...
+- 📫 How to reach me: [Facebook - Đỗ Khánh Đăng](https://www.facebook.com/khanhdang.cd)
