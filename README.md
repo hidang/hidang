@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![](https://github.com/hidang/hidang/blob/main/dino.gif)](#)
 
-### Hi there 👋 I'm hidang ✨
+
+### Hi there 👋 
+### I'm hidang 
+## ✨ Welcome to my github
