@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - 📂 I have a strong passion in coding and would love to internalize knowledge that is relevant to JavaScripts, Nodejs.
 - 📂 I really want to learn, accumulate knowledge and I will do anything for free in order to learn new things.
 - 📫 How to reach me: [Facebook - Đỗ Khánh Đăng](https://www.facebook.com/khanhdang.cd)
+<img scr="https://github-readme-stats.vercel.app/api?username=hidang&&show_icons=true">
