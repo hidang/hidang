@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ## ✨ Welcome to my github
 - 🌱 I’m currently learning in [VNUHCM-University of Information Technology](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
-- 🛠 I had some experiences in `C++`, `Data Structure and Algorithms basic`, `Object-oriented programming`, `Unity`, `html/css basic`, `JavaScripts (Nodejs)`.
+- 🛠 I had some experiences in `C++`, `Data Structure and Algorithms basic`, `Object-oriented programming`, `Unity`, `html/css basic`, `JavaScripts, `Nodejs`, `ReactJS`
 - 👨‍💻 All of my projects are available at [github.com/hidang](https://github.com/hidang)
-- 🤔 I’m looking for help with JavaScripts, Nodejs.
+- 🤔 I’m looking for help with JavaScripts, Nodejs, ReactJS
 - 📂 I have a strong passion in coding and would love to internalize knowledge that is relevant to JavaScripts, Nodejs.
 - 📂 I really want to learn, accumulate knowledge and I will do anything for free in order to learn new things.
 - 📫 How to reach me: [Facebook - Đỗ Khánh Đăng](https://www.facebook.com/khanhdang.cd)
