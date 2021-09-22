@@ -23,5 +23,10 @@ Here are some ideas to get you started:
 - 🛠 I had some experiences in `C#` `.Net Core` `Blazor` `Data Structure and Algorithms basic` `Object-oriented programming` `Unity 2D` `Html/Css basic` `JavaScripts` `Nodejs` `NestJs` `ReactJS`
 - 👨‍💻 All of my projects are available at [github.com/hidang](https://github.com/hidang)
 - 📂 I really want to learn, accumulate knowledge and I will do anything for free in order to learn new things.
-- 📫 How to reach me: [Facebook - Đỗ Khánh Đăng](https://www.facebook.com/khanhdang.cd)
+- 📫 How to reach me: [Linkedin - Do Khanh Dang](https://www.linkedin.com/in/dangdodev) | [Facebook - Đỗ Khánh Đăng](https://www.facebook.com/khanhdang.cd)
+
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=hidang&&show_icons=true">
+
+</div>
