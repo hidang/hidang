@@ -18,6 +18,26 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋 I'm Đỗ Khánh Đăng (hidang) </h1>
 <h3 align="center">A Passionate Developer</h3>
 
+           
+                        _ooOoo_
+                       o8888888o
+                       88" . "88
+                       (| -_- |)
+                       O\  =  /O
+                    ____/`---'\____
+                  .'  \\|     |//  `.
+                 /  \\|||  :  |||//  \
+                /  _||||| -:- |||||_  \
+                |   | \\\  -  /'| |   |
+                | \_|  `\`---'//  |_/ |
+                \  .-\__ `-. -'__/-.  /
+              ___`. .'  /--.--\  `. .'___
+           ."" '<  `.___\_<|>_/___.' _> \"".
+          | | :  `- \`. ;`. _/; .'/ /  .' ; |
+          \  \ `-.   \_\_`. _.'_/_/  -' _.' /
+===========`-.`___`-.__\ \___  /__.-'_.'_.-'================
+                        `=--=-'                    
+
 ## ✨ Welcome to my github
 - 🌱 I’m currently learning in [VNUHCM-University of Information Technology](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
 - 🛠 I had some experiences in `C++` `Data Structure and Algorithms basic` `Object-oriented programming` `HTMLl/CSS` `JavaScripts` `Typescript` `Nodejs` `NestJs` `ReactJS` `C#` `.Net Core` `Blazor` `Unity 2D`
