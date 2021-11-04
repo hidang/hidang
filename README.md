@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 <!-- - 🛠 I had some experiences in `C++` `Data Structure and Algorithms basic` `Object-oriented programming` `HTMLl/CSS` `JavaScripts` `Typescript` `Nodejs` `NestJs` `ReactJS` `C#` `.Net Core` `Blazor` `Unity 2D` -->
 
-<h1 align="center" style="box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;">Hi there 👋 I'm Đỗ Khánh Đăng (hidang) </h1>
+<h1 align="center">Hi there 👋 I'm Đỗ Khánh Đăng (hidang) </h1>
 
-<h3 align="center" style="">A Passionate Developer</h3>
+<h3 align="center" style="">
+  <i>A Passionate Developer</i>
+</h3>
 
 ## ✨ Welcome to my github
 
@@ -28,5 +30,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedin - Do Khanh Dang](https://www.linkedin.com/in/dangdodev) | [Facebook - Đỗ Khánh Đăng](https://www.facebook.com/khanhdang.cd)
 
 <div align="center">
-  <img src="https://github.com/hidang/hidang/images/meme_hidang_github.gif">
+  <img src="https://github.com/hidang/hidang/blob/main/images/meme_hidang_github.gif" />
 </div>
