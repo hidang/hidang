@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 
 ## ✨ Welcome to my github
 
+<!--
 - 🌱 I’m currently learning in [VNUHCM-University of Information Technology](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
 - 👨‍💻 All of my projects are available at [github.com/hidang](https://github.com/hidang)
 - 📂 I really want to learn, accumulate knowledge and I will do anything for free in order to learn new things.
 - 📫 How to reach me: [Linkedin - Do Khanh Dang](https://www.linkedin.com/in/dangdodev) | [Facebook - Đỗ Khánh Đăng](https://www.facebook.com/khanhdang.cd)
 
-<!-- <div align="center">
+ <div align="center">
   <img src="https://github.com/hidang/hidang/blob/main/images/meme_hidang_github.gif" />
 </div> -->
